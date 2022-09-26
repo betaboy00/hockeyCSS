@@ -1,0 +1,9 @@
+.boxovertimeoff #overtime {
+  display: none;
+}
+
+.boxovertimeoff #moment:before {
+  content: "P";
+  margin-right: 0.2em;
+  visibility: visible;
+}
