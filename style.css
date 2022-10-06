@@ -1,4 +1,4 @@
-.boxtimer #timer {
+.boxtimer  {
   display: none;
 }
 
@@ -7,7 +7,7 @@
 }
 
 .boxovertimeoff #moment:before {
-  content: "P";
+  content: "Period";
   margin-right: 0.2em;
   visibility: visible;
 }
