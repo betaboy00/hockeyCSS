@@ -1,3 +1,7 @@
+.boxtimer #timer {
+  display: none;
+}
+
 .boxovertimeoff #overtime {
   display: none;
 }
